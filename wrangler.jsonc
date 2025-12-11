@@ -16,9 +16,10 @@
 	},
 	"d1_databases": [
 		{
-			"binding": "navig",
-			"database_name": "navig",
-			"database_id": "e8bdecee-f73c-4d82-9e7e-ee59d5ca40e2"
+			"binding": "navigation_db",
+			"database_name": "navigation-db",
+			"database_id": "aa5a885f-2bb0-49cc-b984-00d97672650b",
+			"remote": true
 		},
 	]
 }
