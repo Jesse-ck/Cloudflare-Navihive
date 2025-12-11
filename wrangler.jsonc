@@ -11,8 +11,8 @@
     "AUTH_ENABLED": "true",
     "AUTH_REQUIRED_FOR_READ": "true",
     "AUTH_USERNAME": "JL",
-    "AUTH_PASSWORD": "$2a$10$NmVfFvGwRMTRFh.IjxC2vua4RQP3PfWrgS/ravUEPlbA1BhazCl2y",
-    "AUTH_SECRET": "j6JzsrEZIsJ6wPr0Gs4sklEoP9IkLxaJ"
+    "AUTH_PASSWORD": "$2a$10$Ex6hcPIzl7aHn7jKelex8eHXCJk8qBo49z.vL8nlpcDEb3GmngGIy",
+    "AUTH_SECRET": "AyZJnEyneBqnZgG6LnZJU4UVUSoYZPd5"
    },
   "d1_databases": [
     {
