@@ -1,5 +1,5 @@
 {
-	"name": "navihive-test",
+	"name": "navig",
 	"compatibility_date": "2025-01-01",
 	"main": "worker/index.ts",
 	"assets": {
@@ -16,9 +16,9 @@
 	},
 	"d1_databases": [
 		{
-			"binding": "navigation_db",
-			"database_name": "navigation-db",
-			"database_id": "aa5a885f-2bb0-49cc-b984-00d97672650b",
+			"binding": "DB",
+      "database_name": "navi",
+      "database_id": "dc86ef13-d481-43ab-9c93-3dc996943992",
 			"remote": true
 		},
 	]
