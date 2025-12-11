@@ -1,6 +1,6 @@
 {
 	"name": "navig",
-	"compatibility_date": "2025-01-01",
+	"compatibility_date": "2025-12-11",
 	"main": "worker/index.ts",
 	"assets": {
 		"directory": "dist/client",
@@ -9,7 +9,7 @@
 	"vars": {
 		// 认证配置
 		"AUTH_ENABLED": "true",
-		"AUTH_REQUIRED_FOR_READ": "true",
+		"AUTH_REQUIRED_FOR_READ": "false",
 		"AUTH_USERNAME": "JL",
 		"AUTH_PASSWORD": "$2a$10$Ex6hcPIzl7aHn7jKelex8eHXCJk8qBo49z.vL8nlpcDEb3GmngGIy",
 		"AUTH_SECRET": "AyZJnEyneBqnZgG6LnZJU4UVUSoYZPd5"
