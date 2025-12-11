@@ -1,7 +1,7 @@
 {
   "name": "navihive-test",
   "compatibility_date": "2025-01-01",
-  "main": "dist/navihive/index.js",
+  "main": "worker/index.ts",
   "assets": {
     "directory": "dist/client",
     "binding": "ASSETS"
