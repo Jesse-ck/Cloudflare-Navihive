@@ -21,12 +21,10 @@
             "binding": "DB",
             "database_name": "navig",
             "database_id": "e8bdecee-f73c-4d82-9e7e-ee59d5ca40e2"
-            "remote": true
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_REQUIRED_FOR_READ": "false",
         "AUTH_USERNAME": "JL",
         "AUTH_PASSWORD": "$2a$10$Ex6hcPIzl7aHn7jKelex8eHXCJk8qBo49z.vL8nlpcDEb3GmngGIy",
         "AUTH_SECRET": "AyZJnEyneBqnZgG6LnZJU4UVUSoYZPd5"
